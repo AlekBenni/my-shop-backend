@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "dbUrl": "mongodb+srv://alek:123@cluster0.duvj8.mongodb.net/shopTest",
+    "secretKey": "user"
+}
